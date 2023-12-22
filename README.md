@@ -6,7 +6,7 @@
 
 - 🌱 We're currently learning **PHP, Flutter, Node JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devkingsDevs/](https://github.com/devkingsDevs/)
+- 👨‍💻 All of our projects are available at [https://github.com/devkingsDevs/](https://github.com/devkingsDevs/)
 
 - 📫 How to reach me **info.devkings@gmail.com**
 
