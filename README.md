@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of our projects are available at [https://github.com/devkingsDevs/](https://github.com/devkingsDevs/)
 
-- 📫 How to reach me **info.devkings@gmail.com**
+- 📫 How to reach us **info.devkings@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://fb.com/itz.devkings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz.devkings" height="30" width="40" /></a>
 <a href="https://instagram.com/itz.devkings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.devkings" height="30" width="40" /></a>
