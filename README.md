@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developers from Sri Lanka</h3>
 <img align="right" width="400" alt="Coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning **PHP, Flutter, Node JS**
+- 🌱 We're currently learning **PHP, Flutter, Node JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devkingsDevs/](https://github.com/devkingsDevs/)
 
